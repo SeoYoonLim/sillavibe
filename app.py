@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+
 def main():
     """
     '경제활동_통합.csv' 파일을 읽어 Streamlit으로 서비스하는 메인 함수
